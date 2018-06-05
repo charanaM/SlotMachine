@@ -1,0 +1,6 @@
+Number of wins : 3
+Number of loses : 1
+Times played : 4
+Total credits earned : 23
+Credits left : 22
+Average credits netted per game : 2
